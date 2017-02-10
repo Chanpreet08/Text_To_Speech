@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_8594abd814aa2109dc1306f47f25e0d9e97ad3cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_0cfc042f9a82053f98fec2cda4e2dcadb4427d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_99691463449bdd52bc71a0551e80164f21dd4edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_6b26935c62e81c0b2cfe9e2965449e68789db290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_3606fe96365dd654c8f867baf7f0cc2523ce1e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_8227ed75aa6a18e3438f0b18c0e974c0dc2cf97c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_aed1e842db56073bbbd280eeda204bd9880aec50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_ec7af4a5f1e1b15f58ce181b6f5d1306e32fb8c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_74d64304a285a7fddeafe5ff4ac0a08df056b338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_2b198b531029ecc047c4bd3fc02963ff220e28ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_8238d2b30e95f4e84a4166f7a08afe4a550a135e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_c1062bb841ade9bfa96211191e3115cea3237178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/cc/AndroidStudioProjects/Text_To_Speech/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_51c7fe36627c5122a05a17e4daad73e4bdcca906.jar" />
+    </item>
+
+</items>
