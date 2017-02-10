@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">TextToSpeech</string>
+    <string-array name="word_array">
+        <item>abandon</item>
+        <item>abbreviated</item>
+        <item>abstractly</item>
+        <item>absurdities</item>
+        <item>accessibly</item>
+        <item>burbling</item>
+        <item>bursting</item>
+        <item>butler</item>
+        <item>buzzers</item>
+        <item>cabbage</item>
+        <item>cackling</item>
+        <item>calculator</item>
+        <item>canvas</item>
+        <item>dynamically</item>
+        <item>dynasties</item>
+        <item>earnestly</item>
+        <item>earthier</item>
+        <item>editing</item>
+        <item>fondest</item>
+        <item>foodstuff</item>
+        <item>footstep</item>
+        <item>hypocrite</item>
+        <item>idealistic</item>
+        <item>japan</item>
+        <item>mainstream</item>
+        <item>malfunctioned</item>
+        <item>tournament</item>
+        <item>translate</item>
+        <item>zoology</item>
+    </string-array>
 </resources>
